@@ -1,6 +1,6 @@
 # node-simple-recipe-api
 
-Simple node Recipe API made with the help of article : [Writing ES6 in NodeJS using Babel](https://medium.com/@abs4real16.ma/writing-es6-in-nodejs-using-babel-10731b8032fc)
+Simple node Recipe API made with the help of an article : [Writing ES6 in NodeJS using Babel](https://medium.com/@abs4real16.ma/writing-es6-in-nodejs-using-babel-10731b8032fc)
 
 # Route List
 
