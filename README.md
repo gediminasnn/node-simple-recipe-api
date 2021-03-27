@@ -6,7 +6,7 @@ Simple node Recipe API made with the help of an article : [Writing ES6 in NodeJS
 
 ## Main GET endpoint
 
-- http://localhost:3000/api/v1/
+- https://node-simple-recipe-api.herokuapp.com/api/v1/
 
 Response body should be :
 
@@ -17,7 +17,7 @@ Response body should be :
 ## Recipe GET endpoint 
 
 
-- http://localhost:3000/api/v1/recipe
+- https://node-simple-recipe-api.herokuapp.com/api/v1/recipe
 
 Displays all existing recipes
 
@@ -38,7 +38,7 @@ Displays all existing recipes
 
 ## Recipe POST endpoint 
 
-- http://localhost:3000/api/v1/recipe
+- https://node-simple-recipe-api.herokuapp.com/api/v1/recipe
 
 Adds a recipe
 
@@ -61,7 +61,7 @@ Response body should be :
 
 ## 404 route
 
-- http://localhost:3000/{slug}
+- https://node-simple-recipe-api.herokuapp.com/{slug}
 
 API Endpoint not found
 
